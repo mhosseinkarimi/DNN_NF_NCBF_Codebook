@@ -5,7 +5,7 @@ __pychache__/
 *.pyd
 
 # datasets
-data/
+# data/
 
 # saved models and logs
 artifacts/
